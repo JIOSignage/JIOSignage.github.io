@@ -595,7 +595,7 @@
   }
 
   .u-section-3 .u-layout-wrap-1 {
-    margin-top: 1384px;
+    margin-top: 200px;
     position: relative;
     margin-right: initial;
     margin-left: initial;
@@ -955,8 +955,36 @@
 }
 
 @media (max-width: 575px) {
+  
+  #sec-dd80{
+   background-color: white;
+    width: device-width;
+  }
+ 
+  
+  #sec-516a{
+    width: 140vw;
+  }
+  #sec-6173{
+    width: 140vw;
+  }
+  #sec-ca53{
+    width: 140vw;
+  }
+  #sec-03fa{
+    width: 140vw;
+  }
+  #carousel_f4b2{
+    width: 140vw;
+  }
+  #sec-d919{
+    width: 140vw;
+  }
+  #sec-4472{
+    width: 140vw;
+  }
   .u-section-3 .u-layout-wrap-1 {
-    margin-top: 2273px;
+    margin-top: auto;
     margin-right: initial;
     margin-left: initial;
   }
@@ -1333,6 +1361,7 @@
 }
 
 @media (max-width: 575px) {
+  
   .u-section-6 .u-layout-wrap-1 {
     margin-top: 52px;
     margin-right: initial;
@@ -1347,4 +1376,9 @@
     padding-top: 20px;
     padding-bottom: 20px;
   }
+ 
+}
+#our-services{
+  margin-bottom:10px;
+  padding-bottom: 20px;
 }
